@@ -2,6 +2,12 @@
 
 A collection of JavaScript projects built using Vanilla JavaScript, HTML, and CSS. This repository serves as a personal playground for learning, experimenting, and building with JavaScript.
 
+## Projects
+
 | Project Name | Live Links |
 |--------------|------------|
-|Random Quote Generator| [View](https://random-quote-generator-jsproject.netlify.app/)
+|Random Quote Generator| [View](https://random-quote-generator-jsproject.netlify.app/)|
+|Infinite Scroll| [View](https://infinite-scroll-sparkling-griffin.netlify.app/)|
+|Picture in Picture|[View](https://picture-in-picture-rad-choux.netlify.app/)|
+|Joke Teller|[View](https://joke-teller-lustrous-blini.netlify.app/)|
+|Light/Dark Mode|[View](https://light-dark-mode-elegant-bublanina.netlify.app/)|

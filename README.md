@@ -11,3 +11,6 @@ A collection of JavaScript projects built using Vanilla JavaScript, HTML, and CS
 |Picture in Picture|[View](https://picture-in-picture-rad-choux.netlify.app/)|
 |Joke Teller|[View](https://joke-teller-lustrous-blini.netlify.app/)|
 |Light/Dark Mode|[View](https://light-dark-mode-elegant-bublanina.netlify.app/)|
+|Animated Template| [View](https://animated-template-twilight.netlify.app/)|
+|Navigation Nation| [View](https://navigation-taupe-frangollo.netlify.app/)|
+|Music Player| [View](https://music-player-lucky.netlify.app/)|

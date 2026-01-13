@@ -14,3 +14,6 @@ A collection of JavaScript projects built using Vanilla JavaScript, HTML, and CS
 |Animated Template| [View](https://animated-template-twilight.netlify.app/)|
 |Navigation Nation| [View](https://navigation-taupe-frangollo.netlify.app/)|
 |Music Player| [View](https://music-player-lucky.netlify.app/)|
+|Custom Countdown| [View](https://custom-countdown-quokka.netlify.app/)|
+|Book Keeper| [View](https://book-keeper-spectacular-stroopwafel.netlify.app/)|
+|Video Player| [View](https://video-player-dainty-mermaid.netlify.app/)|

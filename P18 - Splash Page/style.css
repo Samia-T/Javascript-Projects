@@ -16,7 +16,7 @@ body {
 .wrapper {
   position: relative;
   width: 1440px;
-  height: 1379px;
+  min-height: 100vh;
   margin: auto;
 }
 

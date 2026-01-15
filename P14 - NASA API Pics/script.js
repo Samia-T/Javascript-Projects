@@ -5,7 +5,7 @@ const saveConfirmed = document.querySelector('.save-confirmed');
 const loader = document.querySelector('.loader');
 
 // NASA API
-const count = 5;
+const count = 3;
 const apiKey = 'DEMO_KEY';
 const apiUrl = `https://api.nasa.gov/planetary/apod?api_key=${apiKey}&count=${count}`;
 
@@ -87,7 +87,7 @@ function updateDOM(page) {
     }
     imagesContainer.textContent = '';
     createDOMNodes(page);
-    showContent();
+    showContent(page);
 }
 
 // Get 10 images from NASA API
@@ -121,7 +121,7 @@ function saveFavorite(itemUrl) {
 
 // remove item from fav
 function removeFavorite(itemUrl) {
-    if (item.url.includes(itemUrl)) {
+    if (itemUrl.includes(itemUrl)) {
         delete favorites[itemUrl];
         // set fav in local storage
         localStorage.setItem('nasaFavorites', JSON.stringify(favorites));   

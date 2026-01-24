@@ -9,7 +9,7 @@ A collection of JavaScript projects built using Vanilla JavaScript, HTML, and CS
 |01|Random Quote Generator| [View](https://random-quote-generator-jsproject.netlify.app/)| 11|Video Player| [View](https://video-player-dainty-mermaid.netlify.app/)|
 |02|Infinite Scroll| [View](https://infinite-scroll-sparkling-griffin.netlify.app/)| 12|Form Validator| [View](https://form-validator-musical-malasada.netlify.app/) |
 |03|Picture in Picture|[View](https://picture-in-picture-rad-choux.netlify.app/)| 13|Spock Rock Game| [View](https://spock-rock-paper-scissors-lizard.netlify.app/) |
-|04|Joke Teller|[View](https://joke-teller-lustrous-blini.netlify.app/)| 14|NASA API Pictures| [View] |
+|04|Joke Teller|[View](https://joke-teller-lustrous-blini.netlify.app/)| 14|NASA API Pictures| [View](https://nasa-api-magnificent-daifuku.netlify.app/) |
 |05|Light/Dark Mode|[View](https://light-dark-mode-elegant-bublanina.netlify.app/)| 15|Math Sprint Game| [View](https://math-sprint-stellular-pika.netlify.app/) |
 |06|Animated Template| [View](https://animated-template-twilight.netlify.app/)| 16|Drag and Drop| [View](https://drag-n-drop-effulgent-praline.netlify.app/) |
 |07|Navigation Nation| [View](https://navigation-taupe-frangollo.netlify.app/)| 17|Calculator| [View](https://calculator-incomparable-nougat.netlify.app/) |
